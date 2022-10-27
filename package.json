@@ -52,7 +52,7 @@
         "react": ">=16.8"
     },
     "dependencies": {
-        "howler": "^2.2.1"
+        "howler": "https://github.com/tunein/howler.js.git"
     },
     "husky": {
         "hooks": {
